@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/shubhendu0/shubhendu0/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shubhendu0/count.svg" />
+</p>
+
+## About me
+
+I'm Shubhendu Bora. A Google Developer Expert on Android.
+
