@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Hello world" height="400" width="860">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Hello world" height="440" width="860">
 
 <p align="center"> 
   Visitor count<br>
