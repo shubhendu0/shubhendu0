@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Shubhendu Bora.
 
 <!--
 **shubhendu0/shubhendu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +22,4 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shubhendu0/count.svg" />
 </p>
-
-## About me
-
-I'm Shubhendu Bora. A Google Developer Expert on Android.
 
