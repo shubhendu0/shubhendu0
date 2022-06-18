@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47wgh7nqx9cg2rx0iyosi5p3v1oo1h1abvl66gt6tr&rid=giphy.gif&ct=g" alt="Profile gif">
+<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)" alt="Hello world">
+
 
 <p align="center"> 
   Visitor count<br>
