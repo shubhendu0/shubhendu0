@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Hello world">
 
 
 <p align="center"> 
